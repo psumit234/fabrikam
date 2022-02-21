@@ -1,0 +1,19 @@
+{
+  "name": "sdmtestexpress",
+  "version": "1.0.0",
+  "description": "for sdm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdm",
+    "end",
+    "module"
+  ],
+  "author": "Sumit Kumar Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
